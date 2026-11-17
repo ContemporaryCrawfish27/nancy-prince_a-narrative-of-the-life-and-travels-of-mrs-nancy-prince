@@ -45,7 +45,15 @@
 		<dc:subject id="subject-5">Prince, Nancy, 1799---Travel</dc:subject>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
-		<meta property="schema:genre">TAG</meta>
+		<dc:subject id="subject-6">West Indies--Description and travel</dc:subject>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh85146191</meta>
+		<dc:subject id="subject-7">Slavery</dc:subject>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh85123314</meta>
+		<meta property="schema:genre">Autobiography</meta>
+		<meta property="schema:genre">Nonfiction</meta>
+		<meta property="schema:genre">Travel</meta>
 		<meta property="schema:abstract">ABSTRACT</meta>
 		<dc:description>
 			DESCRIPTION
