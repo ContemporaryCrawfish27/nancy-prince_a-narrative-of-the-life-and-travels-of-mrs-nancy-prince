@@ -54,9 +54,10 @@
 		<meta property="schema:genre">Autobiography</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<meta property="schema:abstract">ABSTRACT</meta>
+		<meta property="schema:abstract">A remarkable 1850 autobiography tracing the life of Nancy Prince, a free Black woman from Boston who traveled and lived in Tsarist Russia during her husband's service in the Russian imperial court, later served as a missionary teacher in Jamaica, and championed abolition in the United States.</meta>
 		<dc:description>
-			DESCRIPTION
+			In this remarkable 1850 autobiography, Mrs. Nancy Prince records her journey from her native Boston to the Russian Imperial Court, and thence to missionary work in Jamaica and abolitionist advocacy in the United States. While in Russia, her narrative offers a firsthand eyewitness account of life in St. Petersburg, including the 1824 St. Petersburg flood and the Decembrist Revolt. During her missionary trips to Jamaica, she paints a vivid picture of the island’s post-emancipation culture and political situation. Finally, her return voyage to the United States provides a harrowing look at the perils of sea travel, especially for a free Black woman facing the constant threat of enslavement along the Southern coast.
+			Self-published in her own unvarnished style, this book captures Mrs. Prince’s personal observations of the mid-nineteenth-century world. Her distinct voice shines through, revealing a driven, enterprising woman who drew deep strength from her religious faith as she navigated a life constantly on the move.
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/63579</dc:source>
